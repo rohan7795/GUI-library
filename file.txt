@@ -1,0 +1,2 @@
+<meta data-sly-use.clientlib="/libs/granite/sightly/templates/clientlib.html" data-sly-call="${clientlib.all @categories='training.edit'}" data-sly-unwrap>
+</meta>
